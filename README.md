@@ -1,4 +1,4 @@
-# accident-insights-dashboard
+# Accident-insights-Dashboard
 An interactive Power BI dashboard for analyzing road accident data, identifying trends, and generating actionable safety insights.
 
 ## Overview
